@@ -1,0 +1,13 @@
+id,label,articles,query,source_file,deepseek-R1 retrieved paragraphs
+R05-06-A,Y,['132'],"If A concludes a gift agreement with B to the effect that A will give B 100,000 yen if B does not commit theft for a certain period of time, and if B, who has not committed theft for that period of time, demands A to pay 100,000 yen, A may refuse to do so.",riteval_R05_en.xml,"['138', '525']"
+R05-03-A,N,['25'],Absentee means a person who has taken leave of the domicile or residence up until then and whose whereabouts are unable to ascertain.,riteval_R05_en.xml,"['25', '98']"
+R03-15-U,N,['416'],The obligee may claim the compensation for damage which has arisen from any special circumstances only if the party did foresee the circumstances.,riteval_R03_en.xml,['415']
+R03-16-O,N,['420'],The agreement on the penalty is presumed to be an agreement on payment of certain amount of money in addition to the compensation for the actual damage due to the non-performance.,riteval_R03_en.xml,['420']
+H23-4-U,N,['106'],"In cases where a  privately appointed agent  appoints a subagent due to unavoidable reasons, the sub-agent only possesses a legal relationship with the agent, so acts of the subagent are not acts of agency for the principal.",riteval_H23_en.xml,['106']
+R05-15-O,N,['398-3'],"After the principal is crystallized, interest and damages secured by the revolving mortgage are limited to that of the last two years in the aggregate.",riteval_R05_en.xml,['398-21']
+H28-4-5,N,"['101', '99', '96']","In cases where the agent (B) for (A) concluded a contract for sale by (C)'s fraud,
+(B) may rescind the contract for sale;
+however, (A) may not rescind it.",riteval_H28_en.xml,[]
+H27-11-A,Y,['293'],"If a person entitled to a servitude does not exercise a portion of his/her rights, only that portion shall be extinguished by prescription.",riteval_H27_en.xml,['293']
+R05-04-U,Y,['102'],An act that a person with qualified legal capacity performs as a legal representative of another person with qualified legal capacity may be rescinded on the grounds of qualified legal capacity.,riteval_R05_en.xml,['102']
+R04-26-I,N,['622-2'],"A leased Building X, which B owns, from B and delivered security deposit to B. In this case, A may demand that B appropriate the security deposit to the payment of rent while the lease continues.",riteval_R04_en.xml,['622-2']
