@@ -340,3 +340,6 @@ R04-22-A,N,['509'],"Victim A, who was injured by the tort, may not use the claim
 R04-22-I,N,"['505', '136']",The obligor of the claim not yet due may not set off the claim.,riteval_R04_en.xml,['509']
 R04-22-O,Y,['511'],"A third party obligor of a claim which has been attached may assert, against the attaching obligee, set-off using the claim against the attached obligor held prior to the attachment.",riteval_R04_en.xml,['511']
 R04-23-A,Y,['598'],"The loan for use without specification of the period of the loan was concluded. In this case, if there is no specification of a purpose of using and making profit from the borrowed thing, the lender may cancel the contract at any time.",riteval_R04_en.xml,['547']
+R04-23-I,Y,['617'],"In the case of a lease of movables with an indefinite term, the lessor may give a notice of termination at any time.",riteval_R04_en.xml,['617']
+R04-23-U,N,"['641', '642']",The contractor may cancel the contract for work at any time whilst the contractor has not completed the work by paying compensation for loss or damage.,riteval_R04_en.xml,[]
+R04-23-E,Y,['651'],"In the case of a mandate with definite terms and which is for value, the mandatary may cancel the contract prior to the expiration of the term.",riteval_R04_en.xml,"['652', '651']"
