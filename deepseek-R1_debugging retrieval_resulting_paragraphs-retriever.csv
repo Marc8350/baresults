@@ -211,3 +211,6 @@ R02-29-A,Y,['509'],"If a person that holds a monetary claim has borne an obligat
 R02-36-A,Y,['120'],An act that is voidable on the grounds of a mistake may also be rescinded by the successor of the contractual status of the person who made the manifestation of intention by mistake.,riteval_R02_en.xml,"['539-2', '93']"
 R02-36-I,N,['153'],The postponement of expiry of prescription period is not effective against the successors of the parties with respect to whom grounds to postpone the expiry of prescription period have arisen.,riteval_R02_en.xml,['153']
 R02-36-U,Y,['187'],A universal successor to a possessor may also assert the successor's own possession only.,riteval_R02_en.xml,['187']
+R02-36-E,N,['254'],A claim that a co-owner (A) holds against another co-owner (B) with respect to the property in co-ownership may not be exercised against B's specific successors.,riteval_R02_en.xml,['254']
+R02-37-A,Y,"['406', '407']","If the obligor of an alternative obligation manifests the intention to exercise the right to choose, the manifestation may not be withdrawn without the consent of the obligee even before the due date of the obligation.",riteval_R02_en.xml,['407']
+R02-37-I,Y,['540'],The manifestation of intention to cancel may not be revoked.,riteval_R02_en.xml,['540']
