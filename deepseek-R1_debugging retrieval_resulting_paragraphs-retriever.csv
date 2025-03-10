@@ -254,3 +254,7 @@ H27-25-A,Y,"['613', '601', '606']","A concluded the contract with B that A lease
 After that, B concluded the contract with C that B subleases the building ""X"" at a charge of 500,000 yen a month with obtaining the approval of A, and delivered the building ""X"" to C.
 After a while, C became unable to use the second story of the building ""X"" due to the leak caused by defect of the roof.
 C may demand B to repair the defect of the roof of the building ""X"".",riteval_H27_en.xml,['606']
+H27-26-A,N,['641'],"The party ordering work may cancel the contract by compensating any damages, even if the contractor has completed the work with the purpose of its obligation.",riteval_H27_en.xml,[]
+H27-26-U,Y,['642'],"In cases where the party ordering work is subject to a ruling for the commencement of bankruptcy procedures, the contractor may cancel the contract.",riteval_H27_en.xml,['642']
+H27-27-A,N,"['559', '562']","In the case where the delivery of the subject matter of work performed is required, if the defect in the subject matter is evident at the time of the delivery of it, the contractor shall not be liable for the warranty against defects.",riteval_H27_en.xml,
+H27-27-I,Y,"['559', '562', '564', '415']","Where no delivery of the subject matter is required, the duration of contractor's warranty commences to run from the time of the completion of the work.",riteval_H27_en.xml,['637']
