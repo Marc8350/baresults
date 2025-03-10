@@ -24,3 +24,7 @@ H21-10-5,Y,['213'],"In cases where person A, who owns land L, subdivides the lan
 H21-12-1,Y,['295'],"A right of retention is not established if the obligee with a secured claim does not possess the subject matter, and even if he/she temporarily has possession, the right shall not be established in cases where the possession commenced by means of a tortious act.",riteval_H21_en.xml,['295']
 H21-12-2,Y,['295'],A right of retention is not established when a secured claim has not yet fallen due.,riteval_H21_en.xml,['295']
 H21-12-3,Y,['297'],"A holder of a right of retention may not accept priority performance from the subject matter, but may accept priority performance from fruits that derived from the subject matter.",riteval_H21_en.xml,['297']
+H21-13-A,Y,['313'],The statutory lien of a lessor of a building shall  exist with movables furnished to that building by the lessee.,riteval_H21_en.xml,['313']
+H21-13-I,Y,['304'],An obligee that has a general statutory lien may exercise the statutory lien concerning money that the obligor has received in payment as compensation for that Thing owned.,riteval_H21_en.xml,['304']
+H21-13-U,N,['343'],Pledges cannot be created over a Thing that cannot be assigned to others.,riteval_H21_en.xml,['343']
+H21-13-E,Y,"['344', '345']","A pledge creation contract that has immovable properties or movables as its objective shall take effect by delivering the subject matter, but this transfer may be either a summary transfer or a transfer of possession by instruction.",riteval_H21_en.xml,"['344', '178']"
