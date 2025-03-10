@@ -250,3 +250,7 @@ H27-24-3,N,['597'],"Loans for use shall lose its effect on the death of the lend
 Leases shall not lose its effect on the death of the lessor by operation of law.",riteval_H27_en.xml,[]
 H27-24-4,N,"['599', '616']","A borrower must restore a borrowed Thing to its original condition on termination of the loan for use, but the borrower must obtain the consent of the lender to remove anything attached to the borrowed Thing.
 A lessee must restore a leased Thing to its original condition on termination of the lease, but the lessee need not obtain the consent of the lessor to remove anything attached to the leased Thing.",riteval_H27_en.xml,"['599', '621']"
+H27-25-A,Y,"['613', '601', '606']","A concluded the contract with B that A leases his/her two-storied building ""X"" at a charge of 500,000 yen a month, and delivered the building ""X"" to B.
+After that, B concluded the contract with C that B subleases the building ""X"" at a charge of 500,000 yen a month with obtaining the approval of A, and delivered the building ""X"" to C.
+After a while, C became unable to use the second story of the building ""X"" due to the leak caused by defect of the roof.
+C may demand B to repair the defect of the roof of the building ""X"".",riteval_H27_en.xml,['606']
