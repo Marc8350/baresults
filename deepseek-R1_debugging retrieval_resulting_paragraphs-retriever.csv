@@ -246,3 +246,7 @@ H27-24-1,Y,"['595', '608']","The borrower shall bear the ordinarily necessary co
 The lessee shall not bear the ordinarily necessary costs of leased Things.",riteval_H27_en.xml,
 H27-24-2,N,"['594', '616']","A borrower must make use of and take the profits of the Thing which is the subject matter of the contract in compliance with the method of use specified by the contract or by the nature of the Thing which is the subject matter of the contract.
 A lessee need not make use of and take the profits of the Thing which is the subject matter of the contract in compliance with the method of use specified by the contract or by the nature of the Thing which is the subject matter of the contract.",riteval_H27_en.xml,"['594', '616']"
+H27-24-3,N,['597'],"Loans for use shall lose its effect on the death of the lender by operation of law.
+Leases shall not lose its effect on the death of the lessor by operation of law.",riteval_H27_en.xml,[]
+H27-24-4,N,"['599', '616']","A borrower must restore a borrowed Thing to its original condition on termination of the loan for use, but the borrower must obtain the consent of the lender to remove anything attached to the borrowed Thing.
+A lessee must restore a leased Thing to its original condition on termination of the lease, but the lessee need not obtain the consent of the lessor to remove anything attached to the leased Thing.",riteval_H27_en.xml,"['599', '621']"
