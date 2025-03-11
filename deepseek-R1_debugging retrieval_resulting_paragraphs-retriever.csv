@@ -1042,3 +1042,11 @@ H28-4-3,N,['106'],A guardian of adult may not appoint its sub-agent unless there
 H28-4-4,N,"['106', '643', '650']","In cases where a privetely appointed agent appointed its sub-agent when there is an unavoidable reason to do so,
 even if the sub-agent has incurred costs found to be necessary for the administration of the mandated business,
 he/she may not claim reimbursement of those costs from the principal.",riteval_H28_en.xml,[]
+H28-4-5,N,"['101', '99', '96']","In cases where the agent (B) for (A) concluded a contract for sale by (C)'s fraud,
+(B) may rescind the contract for sale;
+however, (A) may not rescind it.",riteval_H28_en.xml,"['124', '113']"
+H28-11-1,N,"['177', '361', '373', '339', '337', '338']","The order of priority of special statutory liens,pledges and mortgages with respect to the same immovable properties shall follow the chronological order of their registration.",riteval_H28_en.xml,['373']
+H28-11-2,N,"['304', '350', '372']","Extension of security interest to proceeds of collateral may be done with respect to a right of retention, a statutory lien, a pledge and a mortgage.",riteval_H28_en.xml,"['304', '350']"
+H28-11-3,N,['302'],"A right of retention shall not be extinguished even if the holder of the right of retention loses possession of the Thing retained, but ,in this case, this right may not be asserted against third parties.",riteval_H28_en.xml,['302']
+H28-11-5,N,"['334', '330']",The statutory lien over movables shall prevail over the pledge of movables.,riteval_H28_en.xml,['334']
+H28-12-1,Y,['295'],"For the formation of rights of retention under Civil Code, existence of a claim that has arisen with respect to the subject matter and possession of the subject matter by the obligee are required, but it is not required that the obligee possess the subject matter at the time of the formation of the claim.",riteval_H28_en.xml,['295']
