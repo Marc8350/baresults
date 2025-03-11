@@ -1064,3 +1064,14 @@ and they are paid out of the movable property only if the claim that is not sati
 H28-14-1,N,"['372', '296']","Because mortgages are rights which grasp value of the subject, even in the case where an amount of a secured claim exceeds the value of the Mortgaged Immovable Properties, a mortgage shall be extinguished if a third party pledgor pays an amount equivalent to value of the subject.",riteval_H28_en.xml,['398-22']
 H28-14-2,N,['371'],"Even if there is a default with respect to a claim secured by a mortgage, the mortgage shall not extend to the fruits of the Mortgaged Immovable Properties derived after the default.",riteval_H28_en.xml,['371']
 H28-14-3,N,['378'],"If a mortgagee demands that a third party who purchases the ownership of Mortgaged Immovable Properties pay the price of the same to the relevant mortgagee, the third party must respond to the request.",riteval_H28_en.xml,['378']
+H28-16-1,N,"['398-12', '398-13']","Before the principal is fixed, a revolving mortgagee may assign a Revolving Mortgage or effect a partial assignment of the Revolving Mortgage, without the approval of the revolving mortgagor.",riteval_H28_en.xml,[]
+H28-16-2,N,['398-4'],"When the scope of the claims to be secured by a Revolving Mortgage is altered before the principal is fixed, the approval of subordinated obligees has to be obtained.",riteval_H28_en.xml,[]
+H28-16-3,Y,['398-4'],"If the alteration of obligors with respect to a Revolving Mortgage is not registered before the principal is fixed, it shall be deemed that such alteration was not effected.",riteval_H28_en.xml,['398-17']
+H28-16-4,N,['398-6'],"With respect to the principal secured by a Revolving Mortgage,
+if the date when the principal is to be fixed is not prescribed,
+the Revolving Mortgage shall be void.",riteval_H28_en.xml,[]
+H28-16-5,Y,['398-3'],"The Revolving Mortgage which the principal is fixed secures
+not only fixed payments of principal but also interest
+up to the maximum amount.",riteval_H28_en.xml,"['398-3', '398-2']"
+H28-17-1,N,['428'],A monetary claim may not be made indivisible due to the manifestation of intention of the parties involved.,riteval_H28_en.xml,['432']
+H28-17-3,Y,['429'],"Even if one of the obligees of an indivisible claim releases the obligor from the claim, other obligees may request the obligor to perform the obligation in whole.",riteval_H28_en.xml,['429']
