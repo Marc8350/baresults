@@ -952,3 +952,11 @@ H26-2-G,Y,"['95', '96']",Any person may assert a manifestation of intention is n
 H26-3-G,Y,['104'],A privately appointed agent may appoint its sub-agent if the authorization of the principal is obtained or there is an unavoidable reason to do so.,riteval_H26_en.xml,"['104', '644-2']"
 H26-4-G,N,['113'],"Even if a principal ratified the act of unauthorized agency against the unauthorized agent, the principal may not assert the ratificatoin vis-a-vis even the unauthorized agent.",riteval_H26_en.xml,[]
 H26-5-C,Y,['140'],"In cases of calculation of the period of prescription, the first day of the period shall not be included for the purpose of the calculation unless the sases where the period commences at twelve midnight.",riteval_H26_en.xml,['140']
+H26-6-A,Y,['166'],The extinctive prescription of claims assigned unspecified due date commences to run when the obligee becomes aware of the arrival of such time limit.,riteval_H26_en.xml,[]
+H26-10-1,Y,['200'],"A library of a university A has a book ""P"", and a professor B borrowes the same and uses his/her office in the same campus.
+In cases where a third party C steals and possesses ""P"" during B's absence to go abroad on business trip, B may claim for the restoration of ""P"" by bringing an action for recovery of possession against C.",riteval_H26_en.xml,['200']
+H26-10-2,Y,['200'],"A library of a university A has a book ""P"", and a professor B borrowes the same and uses his/her office in the same campus.
+D stole ""P"" the moment B took his/her eyes, in addition, D sold and delivered ""P"" to E under false ownership.
+Even if ""P"" is stamped the ownership mark by the library, and E thinks that D embezzled ""P"", B may not claim for the restoration of ""P"" by bringing an action for recovery of possession against E.",riteval_H26_en.xml,['194']
+H26-10-3,N,['200'],"A library of a university A has a book ""P"", and a professor B borrowes the same and uses his/her office in the same campus.
+In the case where B left ""P"" in a train on the way home, and F found and possesses the same, B may claim for the restoration of ""P"" by bringing an action for recovery of possession against F.",riteval_H26_en.xml,['193']
