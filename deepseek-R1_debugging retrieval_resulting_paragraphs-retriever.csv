@@ -1075,3 +1075,14 @@ not only fixed payments of principal but also interest
 up to the maximum amount.",riteval_H28_en.xml,"['398-3', '398-2']"
 H28-17-1,N,['428'],A monetary claim may not be made indivisible due to the manifestation of intention of the parties involved.,riteval_H28_en.xml,['432']
 H28-17-3,Y,['429'],"Even if one of the obligees of an indivisible claim releases the obligor from the claim, other obligees may request the obligor to perform the obligation in whole.",riteval_H28_en.xml,['429']
+H28-17-5,N,['406'],"If the subject of the claim is to be identified by way of choice among more than one performance, the right to make the choice shall vest in the obligee.",riteval_H28_en.xml,[]
+H28-20-1,Y,['499'],A third party who effects an effective performance not against the will of the obligor shall be subrogated by operation of law to the claim of the obligee by effecting performance.,riteval_H28_en.xml,['499']
+H28-22-1,N,['549'],"Gifts shall become effective by the manifestation by one of the parties of his/her intention to give his/her property to the other party gratuitously, and the acceptance of the other party thereof;
+therefore, gifts shall not become effective if one of the parties to recieve property offers the gift and the other party accept the offer.",riteval_H28_en.xml,['549']
+H28-22-2,Y,['572'],"In cases where there is a special agreement, in a contract of sale, to the effect that the seller will not provide the warranties against defects,
+if the seller knew but did not disclose that there is any latent defect in the subject matter of a sale,
+he/she may not be released from the warranties against defects.",riteval_H28_en.xml,['572']
+H28-22-4,N,['613'],"In cases where the parties do not define the time for return in a contract for value of deposit for consumption of money,
+the depositor may not demand the return of money
+unless he/she issues a notice of demand to the depositary, specifying a reasonable period.",riteval_H28_en.xml,['591']
+H28-26-1,Y,"['652', '620']","In cases where a mandate is cancelled for default, the cancellation shall be effective solely toward the future.",riteval_H28_en.xml,"['652', '620']"
