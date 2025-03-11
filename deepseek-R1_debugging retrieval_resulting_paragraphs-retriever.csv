@@ -1129,3 +1129,8 @@ In such case, A may not asserted against B to aquire the ownership of the movabl
 H24-10-4,N,"['184', '344']","(A) got the creation of the pledge regarding to the B'movable ""a"" in order to secure the A's credit against B.
 In such case, the creation of the pledge shall not take effect by only delivering the movable ""a"" in way of transfers of possession by instructions.",riteval_H24_en.xml,['344']
 H24-10-5,N,['184'],"In cases where (A) bought the movable ""a"" which (B) had owned and deposited to the depositary, if A orders the depositary to thenceforward possess it on behalf of A, and such depositary consents thereto, A shall acquire the possessory right.",riteval_H24_en.xml,['184']
+H24-11-1,N,['206'],"Any claim of a real right based on an ownership is the right derived from the ownership; therefore, only a claim of real right separated from  an ownership may not be assigned, but may be extinguished by an extinctive prescription.",riteval_H24_en.xml,['293']
+H24-11-4,Y,['249'],"Although (A), (B) and (C) co-own the land used as a farm in one third of proportion, a third party with the consent of A is going to develop the land to a residential land.
+In such case, C, by oneself, may demand the third party not to develop all of the land as exercing the claim of the real right based on co-ownership.",riteval_H24_en.xml,['249']
+H24-12-1,N,['179'],"In cases where (A) have created the (B)'s supercify over A's land and registered such fact,
+the supercify shall be extinguished if B acquires the ownership of A's land, even if the supecify was the object of the mortgage of a third party.",riteval_H24_en.xml,['179']
