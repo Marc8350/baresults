@@ -1088,3 +1088,7 @@ unless he/she issues a notice of demand to the depositary, specifying a reasonab
 H28-26-1,Y,"['652', '620']","In cases where a mandate is cancelled for default, the cancellation shall be effective solely toward the future.",riteval_H28_en.xml,"['652', '620']"
 H28-26-2,N,"['643', '656']",A quasi-mandate shall be effective even if it is not made in writing but a mandate shall not be effective unless it is made in writing.,riteval_H28_en.xml,"['656', '652']"
 H28-27-1,Y,['675'],"If a creditor of a partnership did not know, when his/her claim arose, the proportions of the partners' shares of losses, the creditor may exercise his/her rights against each partner in equal proportions.",riteval_H28_en.xml,[]
+H28-27-2,N,['677'],An obligor of a partnership may set off his/her obligation against his/her claim against the partners.,riteval_H28_en.xml,"['439', '434']"
+H28-27-4,N,"['679', '681']",A partnership shall be dissolved on the successful completion of the business that is its object.,riteval_H28_en.xml,['682']
+H28-28-1,N,['705'],A person who has tendered anything as performance of an obligation may not demand the return of the thing tendered if the person were negligent in not knowing that the obligation did not exist.,riteval_H28_en.xml,[]
+H28-35-1,N,['369'],Both superficies and rights to lease land cannot be the subject matter of a mortgage.,riteval_H28_en.xml,['398']
