@@ -1086,3 +1086,5 @@ H28-22-4,N,['613'],"In cases where the parties do not define the time for return
 the depositor may not demand the return of money
 unless he/she issues a notice of demand to the depositary, specifying a reasonable period.",riteval_H28_en.xml,['591']
 H28-26-1,Y,"['652', '620']","In cases where a mandate is cancelled for default, the cancellation shall be effective solely toward the future.",riteval_H28_en.xml,"['652', '620']"
+H28-26-2,N,"['643', '656']",A quasi-mandate shall be effective even if it is not made in writing but a mandate shall not be effective unless it is made in writing.,riteval_H28_en.xml,"['656', '652']"
+H28-27-1,Y,['675'],"If a creditor of a partnership did not know, when his/her claim arose, the proportions of the partners' shares of losses, the creditor may exercise his/her rights against each partner in equal proportions.",riteval_H28_en.xml,[]
