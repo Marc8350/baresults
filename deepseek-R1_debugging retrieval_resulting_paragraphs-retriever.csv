@@ -1056,3 +1056,11 @@ he/she shall have a statutory lien.",riteval_H28_en.xml,"['316', '622-2']"
 H28-13-2,N,['330'],"In cases where a lessee of a building has not paid the purchase money with respect to the sale of a dresser for a furniture store and has not paid the rent for the lessor,
 the furniture store's statutory lien with respect to the dresser shall prevail over the lessor's statutory lien with respect to the same.",riteval_H28_en.xml,"['313', '312']"
 H28-13-3,Y,"['306', '308']","If a company does not pay salary, the employee shall have a statutory lien with respect to the salary, regardless of the unpaid period, over the entire property of the company.",riteval_H28_en.xml,"['308', '306']"
+H28-13-4,Y,"['308', '306', '311', '329']","In cases where a company has not paid the purchase money with respect to the sale of refrigerators for an electronics store and it has not paid salaries for its employees,
+the electronics store's statutory lien with respect to the refrigerators shall prevail over employees's statutory lien with respect to the same.",riteval_H28_en.xml,['330']
+H28-13-5,N,['335'],"In cases where an obligor owns an immovable property and a movable property which are not the subject of an agreed security interest, a right of retention and a special statutory lien,
+the holders of general statutory liens are first paid out of the immovable property,
+and they are paid out of the movable property only if the claim that is not satisfied remains.",riteval_H28_en.xml,[]
+H28-14-1,N,"['372', '296']","Because mortgages are rights which grasp value of the subject, even in the case where an amount of a secured claim exceeds the value of the Mortgaged Immovable Properties, a mortgage shall be extinguished if a third party pledgor pays an amount equivalent to value of the subject.",riteval_H28_en.xml,['398-22']
+H28-14-2,N,['371'],"Even if there is a default with respect to a claim secured by a mortgage, the mortgage shall not extend to the fruits of the Mortgaged Immovable Properties derived after the default.",riteval_H28_en.xml,['371']
+H28-14-3,N,['378'],"If a mortgagee demands that a third party who purchases the ownership of Mortgaged Immovable Properties pay the price of the same to the relevant mortgagee, the third party must respond to the request.",riteval_H28_en.xml,['378']
