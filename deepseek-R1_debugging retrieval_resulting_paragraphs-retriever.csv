@@ -1119,3 +1119,13 @@ H24-8-3,Y,['189'],"If a possessor in good faith is defeated in an action on the 
 89-2",riteval_H24_en.xml,['89-2']
 H24-8-5,N,['424'],"An obligee (B) against (A) may demand the court against (D) who succeeds to benefits as defendant to rescind the gift from A to (C) by the reason of fraudulent act, if D knew, at the time of the gift, the fact that B is to be prejudiced.",riteval_H24_en.xml,['424-5']
 H24-9-1,N,"['166', '291']","A claim may be extinguished by extinctive prescription; however, a real right may not.",riteval_H24_en.xml,"['166', '396']"
+H24-9-4,N,"['362', '364', '588']","A claim may be the subject of another claim; howver, a claim may not be subject of a real right.",riteval_H24_en.xml,"['399', '175']"
+H24-10-1,Y,"['183', '200']","(A) bought the movable ""a"" from (B) and A aquired possessory right by constructive transfer, however B is forcibly dispossessed the movable ""a"" by (C).
+In this case, A may claim for the restoration of the movable ""a"" against C not only based on the ownership but also by bringing an action for recovery of possession.",riteval_H24_en.xml,['200']
+H24-10-2,N,['192'],"(A) bought the movable ""a"" from (B) and A aquired possessory right by constructive transfer, however B also sold the movalbe ""a"" to (C) and delivered in actual.
+In this case, C may assert against A to aquire the ownership the movable ""a"" without unknowlegde and negligence regarding to the trade of the movable ""a"" between A and B.",riteval_H24_en.xml,['192']
+H24-10-3,N,['182'],"(A) bought the movable ""a"" which he/she had borrowed and possessed from (B).
+In such case, A may not asserted against B to aquire the ownership of the movable ""a"", unless A returns it to B and B delivers again it to A in actual.",riteval_H24_en.xml,['475']
+H24-10-4,N,"['184', '344']","(A) got the creation of the pledge regarding to the B'movable ""a"" in order to secure the A's credit against B.
+In such case, the creation of the pledge shall not take effect by only delivering the movable ""a"" in way of transfers of possession by instructions.",riteval_H24_en.xml,['344']
+H24-10-5,N,['184'],"In cases where (A) bought the movable ""a"" which (B) had owned and deposited to the depositary, if A orders the depositary to thenceforward possess it on behalf of A, and such depositary consents thereto, A shall acquire the possessory right.",riteval_H24_en.xml,['184']
