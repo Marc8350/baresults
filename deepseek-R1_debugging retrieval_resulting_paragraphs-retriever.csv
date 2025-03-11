@@ -1034,3 +1034,11 @@ H28-3-1,N,['9'],"In the case where an adult ward, (A) purchased a daily househol
 H28-3-2,Y,['98-2'],"In the case where (A) is an adult ward at the time when (A) receives a manifestation of intention of cancellation of a contract, the cancellation of the contract shall not take effect until (A)'s guardian of adult, (C) has acquired the knowledge of (B)'s manifestation of intention of cancellation of the contract.",riteval_H28_en.xml,['98-2']
 H28-3-3,N,['526'],"In the case where (A) loses his/her capacity to act after the dispatch of the notice of an offer of a contract to (B), who is a person at a distance, even if (B) knows such fact, the offer of the contract shall become effective.",riteval_H28_en.xml,['526']
 H28-3-4,Y,['97'],"In the case where (A) loses his/her capacity to act after the dispatch of the notice of cancellation of a contract to (B), who is a person at a distance, even if (B) knows such fact, the cancellation of the contract shall become effective.",riteval_H28_en.xml,[]
+H28-3-5,Y,['97'],"In the case where (A) loses his/her capacity to act after the dispatch of the notice of acceptance of a contract to (B), who is a person at a distance, even if (B) knows such fact, the contract shall be formed.",riteval_H28_en.xml,['527']
+H28-4-1,Y,['117'],"If the counterparty of unauthorized agency was negligent in not knowing that the person who concluded a contract holding himself/herself out as an agent of another person had no authority of agency,
+he/she may not pursue the liability of the unauthorized agent in civil code.",riteval_H28_en.xml,['108']
+H28-4-2,Y,['111'],The authority of agency shall be terminated upon ruling for commencement of guardianship against the agent.,riteval_H28_en.xml,['111']
+H28-4-3,N,['106'],A guardian of adult may not appoint its sub-agent unless there is an unavoidable reason to do so.,riteval_H28_en.xml,['105']
+H28-4-4,N,"['106', '643', '650']","In cases where a privetely appointed agent appointed its sub-agent when there is an unavoidable reason to do so,
+even if the sub-agent has incurred costs found to be necessary for the administration of the mandated business,
+he/she may not claim reimbursement of those costs from the principal.",riteval_H28_en.xml,[]
