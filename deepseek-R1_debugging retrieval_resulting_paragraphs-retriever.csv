@@ -1134,3 +1134,10 @@ H24-11-4,Y,['249'],"Although (A), (B) and (C) co-own the land used as a farm in 
 In such case, C, by oneself, may demand the third party not to develop all of the land as exercing the claim of the real right based on co-ownership.",riteval_H24_en.xml,['249']
 H24-12-1,N,['179'],"In cases where (A) have created the (B)'s supercify over A's land and registered such fact,
 the supercify shall be extinguished if B acquires the ownership of A's land, even if the supecify was the object of the mortgage of a third party.",riteval_H24_en.xml,['179']
+H24-12-2,N,['179'],"In cases where (A) have created the superficy for (B) and (C) over A's land and registered such fact,
+even if the superficy is in quasi co-ownership by B and C, the supecify shall be extinguished if B acquires the ownership of A's land.",riteval_H24_en.xml,['269']
+H24-12-3,Y,['179'],"In cases where (B) has the superficy over (A)'s land, which had already been the subject of the mortgage, and registered such fact,
+the supecify shall be extinguished if B acquires the ownership of A's land.",riteval_H24_en.xml,['1063']
+H24-12-5,N,['179'],"In cases where (B) has the superficy over (A)'s land and registered such fact, and erected a building on A's land to lease to (C),
+the supecify shall not be extinguished even if B acquires the ownership of A's land.",riteval_H24_en.xml,['265']
+H24-14-A,N,"['302', '298']","Rights of Retention is the right hold by a possessor of a Thing belonging to another porson; therefore, in cases a holder a right of retention leases the Thing retained to a third party, a right of retention shall be extinguished even if he/she obtains the consent of an owner.",riteval_H24_en.xml,['302']
